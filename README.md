@@ -1,7 +1,7 @@
 # Image and Video Processing (IVP) — Assignments
 
 Solutions to the 10 IVP lab assignments, written in Python as Jupyter notebooks.
-Each folder contains the question (`Question.pdf`) and a notebook with the theory, the code, the output images and the observations.
+Each folder contains one notebook. Every question is written in a text cell, followed directly by its code, output images and observations.
 
 | # | Topic | Notebook |
 |---|---|---|
